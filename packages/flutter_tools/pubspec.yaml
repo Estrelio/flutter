@@ -5,6 +5,9 @@ homepage: https://flutter.dev
 environment:
   sdk: '>=3.2.0-0 <4.0.0'
 
+executables:
+  eflutter: flutter_tools
+
 dependencies:
   # To update these, use "flutter update-packages --force-upgrade".
   archive: 3.3.2
